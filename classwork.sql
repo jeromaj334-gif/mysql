@@ -1,0 +1,1 @@
+SELECT customerName FROM customers UNION brand FROM mobiles;
